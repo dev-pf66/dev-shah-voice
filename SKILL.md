@@ -171,8 +171,13 @@ See [references/editing-sweeps.md](references/editing-sweeps.md) for detailed pr
 
 ## References
 
+**Full Post Examples:**
+- [twitter-posts.md](references/twitter-posts.md) — Complete Twitter threads + single tweets
+- [linkedin-posts.md](references/linkedin-posts.md) — Complete LinkedIn posts (7 full examples)
+
+**Frameworks:**
 - [7-readers.md](references/7-readers.md) — Full 7 reader personas
-- [examples.md](references/examples.md) — Real Twitter posts with breakdowns
+- [examples.md](references/examples.md) — Twitter voice breakdowns + patterns
 - [psychology-tactics.md](references/psychology-tactics.md) — Mental models Dev uses
 - [content-formulas.md](references/content-formulas.md) — Thread structures, headline formulas, CTAs
 - [editing-sweeps.md](references/editing-sweeps.md) — 7-pass editing framework
