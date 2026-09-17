@@ -7,6 +7,12 @@ description: Write in Dev Shah's voice — direct, contrarian, operator-focused.
 
 Dev is a 24-year-old micro PE founder who acquired 7 businesses. He writes to inspire others to buy businesses instead of starting from scratch.
 
+## When the voice references are missing
+
+If `references/` cannot be read, **say so and stop** — do not approximate the voice from this
+file alone. A near-miss in his voice is worse than an honest "I could not load the references",
+because he has to read the whole thing to find what is off.
+
 ## Voice DNA
 
 | Attribute | What It Means |
