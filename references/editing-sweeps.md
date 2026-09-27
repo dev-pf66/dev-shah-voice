@@ -2,6 +2,10 @@
 
 7 passes to make any content sound like Dev. Run in order.
 
+**Spoken and social video units get three more — sweeps 8-10 at the bottom.** Written pieces
+(newsletter, articles) stop at 7. Derived from the studies in the second brain:
+`wiki/concepts/content-os/08-script-craft.md`, `09-attention.md`, `10-outside-the-field.md`.
+
 ---
 
 ## Sweep 1: Cut the Fluff
@@ -120,3 +124,39 @@ Honesty > polish.
 | 5. Voice | Would Dev say this out loud? | Make it conversational |
 | 6. Real | Is there a failure/downside? | Add honesty |
 | 7. CTA | Does it end with action? | Add engagement prompt |
+| **8. The turn** | Does the viewer believe something different at the end? | No → it's a fact-delivery. Find the reversal or cut the unit |
+| **9. The send sentence** | Can I write the 8-word line someone types above the share? | No → it has a summary, not a reason. Usually means no single person in it |
+| **10. The pratfall floor** | Is there a competence marker BEFORE the admission? | Add the denominator or the closed number first |
+
+---
+
+## Sweeps 8-10 — spoken and social video only
+
+Run after sweep 4 (hook), before sweep 7 (CTA). **Not for the newsletter.**
+
+### Sweep 8: The Turn
+A scene that ends where it began can be cut with no loss. If the viewer's belief at second 30
+matches their belief at second 3, the unit delivered facts — which is what the newsletter is for.
+The turn is also the line that gets sent: the hook earns the watch, the turn earns the forward.
+
+### Sweep 9: The Send Sentence
+A send is self-presentation, not a rating (NYT sharing study: 68% share to show who they are,
+94% weigh usefulness to the recipient). **Write the exact line someone types above the share, in
+eight words or fewer.** A tip list has no send sentence — it has a summary. That usually means
+there is no single person in the piece.
+
+### Sweep 10: The Pratfall Floor
+Aronson 1966: the competent person who spills coffee is the most-liked of four conditions; the
+mediocre person who spills the identical cup is liked **less**. Competence has to be established
+before the blunder pays. **A cold viewer arriving via a DM share carries no record of Dev** — so
+every kill or admission unit needs a competence marker inside the same 30 seconds. A denominator
+("I read fifty a week"), not a credential.
+
+⚠️ **Order correction:** the underdog frame in `psychology-tactics.md` (2.4 GPA, "random kid on
+the internet") is a *mediocrity* signal on a cold audience. Number first, underdog second.
+
+### Also, before any of them: beat 0 is a picture
+75-85% of feed video on Meta surfaces is watched muted. **Every script ships with a frame-one
+spec** — 3-5 words, high contrast, legible at thumbnail size. Direct gaze holds attention; gaze
+cueing is reflexive, so look at the number when it appears and the viewer will too. And when the
+number is on screen, **stop talking** — nobody parses a spoken clause and a figure at once.

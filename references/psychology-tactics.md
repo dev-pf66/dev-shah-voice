@@ -2,6 +2,22 @@
 
 Mental models and psychological triggers baked into Dev's content.
 
+> ⚠️ **This file is the general layer and stays as-is. The specific, evidenced layer is in the
+> second brain** — `wiki/concepts/content-os/08-script-craft.md` (which persuasion levers SOUL
+> actually leaves open, and which half of Cialdini is banned), `09-attention.md` (capture vs hold
+> vs encode; the January 4M-view / zero-lead failure was an *encoding* failure), and
+> `10-outside-the-field.md` (the false solution, the deal M&M, the beautiful mess effect).
+> **Where they disagree with this file, they win** — they are derived from Dev's own archive and
+> from primary research; this file is inherited.
+>
+> **Two corrections to what is below:**
+> 1. **Underdog Effect — order matters.** On a cold audience with no record visible, "2.4 GPA" and
+>    "random kid on the internet" land as mediocrity signals, not charm (Aronson 1966). Competence
+>    marker first, underdog second.
+> 2. **Social Proof — by count is banned.** "180K impressions on this thread" and follower numbers
+>    are exactly what the burned-course-buyer reader is scanning for, and SOUL forbids them. Peer
+>    behaviour ("someone I spoke to this week bought a cleaning company") is the version that works.
+
 ---
 
 ## Contrast Principle
