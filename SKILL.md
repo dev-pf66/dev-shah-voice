@@ -124,7 +124,7 @@ Use these naturally:
 - Can go longer (1,300 chars ideal)
 - More story, more context
 - Still punchy hooks
-- 5-8 hashtags at end
+- **No hashtags** (Dev, 2026-10-05; the old "5-8 at end" matched none of his real posts). Full LinkedIn spec: `wiki/concepts/linkedin-master-doc.md` in the second-brain repo
 - Carousels for frameworks
 
 ### Newsletter
