@@ -1,5 +1,8 @@
 # Dev Voice Editing Sweeps
 
+> **Not for LinkedIn (Dev, 2026-11-09).** Sweeps 1, 2 and 3 are off there: his own edits add the words sweep 1 cuts, and sweep 3 produces the
+> "X isn't Y, it's Z" lines he struck. LinkedIn drafts use the check in `wiki/linkedin/linkedin-voice.md` in the second-brain repo.
+
 7 passes to make any content sound like Dev. Run in order.
 
 **Spoken and social video units get three more — sweeps 8-10 at the bottom.** Written pieces

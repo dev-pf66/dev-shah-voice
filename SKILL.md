@@ -121,11 +121,9 @@ Use these naturally:
 - End with CTA, maybe 1-2 hashtags
 
 ### LinkedIn
-- Can go longer (1,300 chars ideal)
-- More story, more context
-- Still punchy hooks
-- **No hashtags** (Dev, 2026-10-05; the old "5-8 at end" matched none of his real posts). Full LinkedIn spec: `wiki/linkedin/linkedin-master-doc.md` in the second-brain repo
-- Carousels for frameworks
+**Stop here for LinkedIn. Use the `linkedin-post` skill and `wiki/linkedin/linkedin-voice.md` in the second-brain repo.** That page is built from Dev's
+own edits and wins over everything in this skill, including the Voice DNA, the hook patterns and the editing sweeps (Dev, 2026-11-09). This skill's rules made
+LinkedIn drafts sound *"too AI and not natural"*.
 
 ### Newsletter
 - Longer (500-1,500 words)
@@ -179,7 +177,7 @@ See [references/editing-sweeps.md](references/editing-sweeps.md) for detailed pr
 
 **Full Post Examples:**
 - [twitter-posts.md](references/twitter-posts.md) — Complete Twitter threads + single tweets
-- [linkedin-posts.md](references/linkedin-posts.md) — Complete LinkedIn posts (7 full examples)
+- [linkedin-posts.md](references/linkedin-posts.md) — moved: the old examples are archived, LinkedIn uses `wiki/linkedin/linkedin-voice.md`
 
 **Frameworks:**
 - [7-readers.md](references/7-readers.md) — Full 7 reader personas
