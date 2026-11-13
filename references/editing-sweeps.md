@@ -153,7 +153,7 @@ Aronson 1966: the competent person who spills coffee is the most-liked of four c
 mediocre person who spills the identical cup is liked **less**. Competence has to be established
 before the blunder pays. **A cold viewer arriving via a DM share carries no record of Dev** — so
 every kill or admission unit needs a competence marker inside the same 30 seconds. A denominator
-("I read fifty a week"), not a credential.
+("we look at 10–30 deals a week" — the ruled line, 2026-10-05; canonical `deals_reviewed_weekly`), not a credential.
 
 ⚠️ **Order correction:** the underdog frame in `psychology-tactics.md` (2.4 GPA, "random kid on
 the internet") is a *mediocrity* signal on a cold audience. Number first, underdog second.

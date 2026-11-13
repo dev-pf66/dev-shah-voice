@@ -1,6 +1,6 @@
 ---
 name: dev-shah-voice
-description: Write in Dev Shah's voice — direct, contrarian, operator-focused. Use when writing social media content (Twitter, LinkedIn), newsletters, cold emails, landing pages, or any marketing copy for micro PE, business acquisitions, or entrepreneurship audiences. Also use when user says "write like Dev," "Dev's voice," "make this more Dev," or wants content for Pocket Fund, micro PE, or acquisition-focused audiences.
+description: Write in Dev Shah's voice — direct, contrarian, operator-focused. Use when writing social media content (not LinkedIn — LinkedIn has its own voice, used by /linkedin-post), newsletters, cold emails, landing pages, or any marketing copy for micro PE, business acquisitions, or entrepreneurship audiences. Also use when user says "write like Dev," "Dev's voice," "make this more Dev," or wants content for Pocket Fund, micro PE, or acquisition-focused audiences.
 ---
 
 # Dev Shah Voice
