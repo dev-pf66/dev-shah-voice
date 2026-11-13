@@ -131,7 +131,8 @@ Here's what I learned:
 - "Follow for more [topic]"
 - "I write about [X] daily"
 
-**Action:**
+**Action:** (⚠️ 2026-11-13: both lines below are lead-gen closes. "DMs are open" is used rarely and never as
+a hook or the closing line, SKILL.md ruling 3. Neither is used on Instagram or X, whose skills ban them.)
 - "DMs are open"
 - "Link in bio"
 - "Drop a [emoji] if this resonates"
